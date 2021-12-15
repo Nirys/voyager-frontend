@@ -1,5 +1,5 @@
 {
-    "name": "pvtl/voyager-frontend",
+    "name": "nirys/voyager-frontend",
     "description": "The Missing Front-end for The Missing Laravel Admin.",
     "keywords": [
         "laravel",
@@ -12,7 +12,11 @@
             "name": "Pivotal Agency",
             "homepage": "http://pivotalagency.com.au",
             "email": "tech@pivotalagency.com.au"
-        }
+        },
+	{
+	    "name": "Kath Young",
+	    "email": "kath2young@gmail.com"
+	}
     ],
     "minimum-stability": "stable",
     "require": {
