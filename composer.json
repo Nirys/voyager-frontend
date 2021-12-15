@@ -24,8 +24,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
-        "orchestra/testbench": "^3.4",
-        "illuminated/testing-tools": "^0.5.5"
+        "illuminated/testing-tools": "^8",
+	"orchestra/testbench": "^6"
     },
     "autoload": {
         "psr-4": {

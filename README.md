@@ -1,4 +1,6 @@
-**This repository is no longer actively maintained**
+# Why fork?
+
+In order to utilise this package and some more modern things, dependencies needed updating.  I've done that, and registered it to packagist so it's possible to continue to use the package.  PRs for continued updates are welcome.
 
 # Voyager Frontend
 
